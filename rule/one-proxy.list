@@ -11,6 +11,9 @@ DOMAIN-SUFFIX,javdb.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
+# 域名匹配
+DOMAIN,api.ffaoa.com
+
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
