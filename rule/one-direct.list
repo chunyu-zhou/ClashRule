@@ -1,5 +1,6 @@
 # 我的自定义直连
 DOMAIN-SUFFIX,oneddns.com
+DOMAIN-SUFFIX,qq.com
 
 # PT 下载相关
 DOMAIN-KEYWORD,tracker
