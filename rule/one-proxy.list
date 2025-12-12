@@ -21,6 +21,7 @@ DOMAIN-KEYWORD,1e100
 DOMAIN,api.ffaoa.com
 DOMAIN,c0.jdbstatic.com
 DOMAIN,pics.dmm.co.jp
+DOMAIN,66img.cc
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
