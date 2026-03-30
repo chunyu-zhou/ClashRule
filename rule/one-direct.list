@@ -6,4 +6,6 @@ DOMAIN-SUFFIX,qq.com
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,m-team,DIRECT
+
+#其他
 IP-CIDR,8.130.44.255/24,no-resolve
