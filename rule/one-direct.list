@@ -1,6 +1,8 @@
 # 我的自定义直连
 DOMAIN-SUFFIX,oneddns.com
 DOMAIN-SUFFIX,qq.com
+DOMAIN,cpa.843843.xyz
+DOMAIN,newapi.843843.xyz
 
 # PT 下载相关
 DOMAIN-KEYWORD,tracker
